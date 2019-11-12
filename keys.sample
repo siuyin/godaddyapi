@@ -1,0 +1,5 @@
+export URL=https://api.godaddy.com
+export API_KEY=someLongRandomString
+export API_SECRET=anotherLongRandomString
+export DOMAIN=example.com
+
